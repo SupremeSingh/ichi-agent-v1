@@ -2,7 +2,7 @@
 
 ## Description
 
-This Forta Workshop agent monitors Uniswap V3 Pool contracts for large flash swaps over a specified threshold (default 100K USD).
+This Forta agent monitors large deposits or withdrawals from ICHI protocol's Angel Vaults. Such withdrawals may be seen as anomolous and potentially exploitative behaviour.
 
 ## Supported Chains
 
